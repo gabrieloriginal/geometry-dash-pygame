@@ -6,7 +6,7 @@ pygame.init()
 WIDTH, HEIGHT = 1100, 600
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Ventana Pygame")
+pygame.display.set_caption("Geometry Dash Pygame")
 
 clock = pygame.time.Clock()
 
