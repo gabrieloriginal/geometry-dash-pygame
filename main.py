@@ -10,7 +10,7 @@ pygame.display.set_caption("Geometry Dash Pygame")
 
 clock = pygame.time.Clock()
 
-
+#i am dumb because idk my email :(
 
 
 WHITE = (255, 255, 255)
